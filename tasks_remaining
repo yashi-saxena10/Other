@@ -1,7 +1,7 @@
 Remaining functionalities to add:
- if 0 records found for viewall, ask to add records
- checks on number, that its 10 digit
- check on name, no digit is inserted
+ if 0 records found for viewall, ask to add records -- completed
+ checks on number, that its 10 digit -- completed
+ check on name, no digit is inserted -- completed
  add name like ya%, records starting with ya displayed
  format view, not display as raw dict result
  add dummy function for calling, like dial then it does the following:

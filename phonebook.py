@@ -31,7 +31,14 @@ def choice():
 #insert new record
 def pbadd():
   nm = input("Enter name: ")
+  for i in nm:
+    if(i.isdigit()=='True'):
+      print("Please Enter a valid name")
+      nm = input("Enter name: ")
   no = int(input("Enter number: "))
+  if(len(str(no))!=10):
+    print("Please Enter a valid 10 digit number")
+    no=int(input("Enter number: "))
   pbdict["name"] = nm
   pbdict["phone"] = no
   pbaddc = pbcol.insert_one(pbdict)
@@ -78,7 +85,13 @@ while True:
 #view all records
   if(ch==5):
     pbv=pbcol.find({},{"_id":0,"name":1,"phone":1})
-    for i in pbv:
+    res=list(pbv)
+    if len(res)==0:
+      print("No records found")
+      flag_in=input("Would you like to add records? y/n ")
+      if flag_in=='y':
+        pbadd()
+    for i in res:
       print(i)
 
 #sleep 5sec so that it looks likr we are exiting

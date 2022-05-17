@@ -1,6 +1,6 @@
 # Python Projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)<b>Trans library</b>
 
 Hi :wave: Welcome to the Python Repo! <br>
 This Repository is dedicated to all the python projects. <br>
@@ -12,5 +12,7 @@ Will be adding the technologies used with python above as badges. <br>
  Performs the following functions: <br>
  Add,Search,Delete,Delete all,View all,Quit
 
- 
+ :scroll: <b> Translate-py-google </b> <br>
+ main_transl.py or translator_lib.py: Use built in <b>Translate</b> library of python for translating the input text <br>
+ test_transl.py or google_transl.py: Use <b>googletrans</b> lib to translate the input sentence to target language <br>
 

@@ -10,11 +10,7 @@ Will be adding the technologies used with python above as badges. <br>
 :phone: <b> Python-py-mongo </b> <br>
  Python project which implements <b>CRUD</b> operations of <b>MongoDB</b> <br>
  Performs the following functions: <br>
- 1) Add <br>
- 2) Search  <br>
- 3) Delete <br>
- 4) Delete all <br>
- 5) View all  <br>
- 6) Quit <br>
+ Add,Search,Delete,Delete all,View all,Quit
+
  
 

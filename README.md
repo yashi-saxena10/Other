@@ -17,3 +17,6 @@ Will be adding the technologies used with python above as badges. <br>
  test_transl.py or google_transl.py: Use <b>googletrans</b> lib to translate the input sentence to target language <br>
 
 🏛️ <b> Data-structures-py </b> <br>
+Implementing Data Structures in Python.<br>
+DS-py(1): Dictionaries, Maps, and Hash Tables<br>
+DS-py(2): Array Data Structures<br>

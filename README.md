@@ -20,3 +20,4 @@ Will be adding the technologies used with python above as badges. <br>
 Implementing Data Structures in Python.<br>
 DS-py(1): Dictionaries, Maps, and Hash Tables<br>
 DS-py(2): Array Data Structures<br>
+DS-py(3): Records, Structs, and Data Transfer Objects<br>

@@ -21,7 +21,7 @@ Implementing Data Structures in Python.<br>
 DS-py(1): Dictionaries, Maps, and Hash Tables<br>
 DS-py(2): Array Data Structures<br>
 DS-py(3): Records, Structs, and Data Transfer Objects<br>
-DS-py(4): Sets and multisets
-DS-py(5): Stacks(LIFO)
-DS-py(6): Queues(FIFO)
-DS-py(7): Priority Queues
+DS-py(4): Sets and multisets<br>
+DS-py(5): Stacks(LIFO)<br>
+DS-py(6): Queues(FIFO)<br>
+DS-py(7): Priority Queues<br>
